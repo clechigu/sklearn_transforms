@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
       install_requires=[
-            'imbalanced-learn==0.4.3'
+            'imbalanced-learn==0.7.0'
       ],
       name='my_custom_sklearn_transforms',
       version='1.0',
